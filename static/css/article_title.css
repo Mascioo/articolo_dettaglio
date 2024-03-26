@@ -1,10 +1,8 @@
-.article_title{
-    font-family:'Roboto', sans-serif;
+.col-8 h1{
     font-size: 48px;
+    font-family: 'Overpass Mono', 'Monospace';
     font-weight: bold;
     line-height: 1;
-}
-
-.article_title h2 {
-font-size: 48px;
+    text-align: left;
+    margin-bottom: 30px;
 }
